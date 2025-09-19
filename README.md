@@ -45,7 +45,7 @@ mobiz-website/
 ---
 
 ## 🌍 Live URL
-[🔗 View the website here](https://your-live-url.com)  
+[🔗 View the website here](https://plp-webtechnologies-classroom-july2-virid.vercel.app/)  
 
 
 ---
