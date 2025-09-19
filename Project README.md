@@ -53,7 +53,7 @@ mobiz-website/
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mobiz-website.git
+   git clone https://github.com/Simon-Ruto/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
    ```
 2. Navigate to the project folder:
    ```bash
