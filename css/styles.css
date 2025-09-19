@@ -1,0 +1,208 @@
+body{
+    background-color:azure;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+nav{
+   background-color:powderblue;
+   margin-bottom: 30px; 
+   padding: 20px ;
+   font-size: 20px;
+   position: fixed;
+   width: 100%;
+   top: 0px;
+   
+
+}
+
+h1{
+    background-color:powderblue;
+    padding: 10px;
+    margin-top: 70px;
+}
+
+footer{
+    background-color: powderblue;
+    padding: 30px;
+    margin-top: 50px;
+    text-align: center;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.callToAction{
+    padding: 50px;
+    font-size: 70px;
+    
+}
+
+.move{
+    margin-left: 120px;
+}
+
+.showcase{
+    text-align: center;
+    margin-bottom: 300px;
+}
+
+
+.up{
+    font-size: 50px;
+}
+
+.s{
+    font-size:30px ;
+}
+
+.leftie{
+    margin-left: 120px;
+    margin-bottom: 300px;
+}
+
+.info{
+    text-align: center;
+    
+}
+
+.about{
+    font-size: 30px;
+}
+
+.mission{
+     font-size: 40px;
+}
+
+.contactDetails{
+    font-size: 30px;
+}
+
+.button{
+    background-color: slategray;
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-size: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 300px;
+    transition: background-color 0.5s ease  ;
+}
+
+button:hover{
+    background-color: thistle ;
+}
+
+.form{
+    margin-left: 20px;
+}
+
+textarea{
+    resize: none;
+    width: 400px;
+    height: 100px;
+    background-color: ivory ;
+    font-size: 15px;
+}
+
+input{
+    height: 30px;
+    width: 300px;
+    background-color: ivory;
+    font-size: 15px;
+}
+
+
+/* Hide menu by default */
+#navMenu.hidden {
+  display: none;
+}
+
+#menuToggle {
+  background: slategray;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#navMenu {
+   
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+#navMenu li {
+  margin: 10px 0;
+}
+
+#navMenu a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+
+#navMenu a:hover {
+  color: darkblue;
+}
+
+/* Default: hide menu on small screens */
+#navMenu {
+  display: none;
+}
+
+/* Show menu when JS adds .open */
+#navMenu.open {
+  display: block;
+}
+
+
+
+
+
+
+
+
+/*RESPONSIVENESS*/
+
+@media(max-width:768px){
+ p{
+    font-size:14px;
+    height: 100px;
+    width: 50px;
+
+ }
+ body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    
+ }
+
+ img {
+        display: block;
+        height: auto; 
+        margin-bottom: 40px;      
+    }
+
+ .leftie{
+    margin-right: 150px;
+ } 
+   
+ .dud{
+    text-align: center;
+    
+ }
+    
+    
+} 
+
+
+
+
+
+
