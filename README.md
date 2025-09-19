@@ -57,7 +57,7 @@ mobiz-website/
    ```
 2. Navigate to the project folder:
    ```bash
-   cd mobiz-website
+   cd plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl
    ```
 3. Open any of the `.html` files in your browser (e.g., `index.html`).
 
